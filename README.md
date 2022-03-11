@@ -61,7 +61,7 @@
 }
 ```
 
-#### Full text search
+#### Full Text Searching
 
 ```graphql
 {
